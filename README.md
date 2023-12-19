@@ -2,7 +2,7 @@
 
 ## Install
 ```
-go add -u github.com/evperedadiaz/greetings
+go get -u github.com/evperedadiaz/greetings
 ```
 
 ...
